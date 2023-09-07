@@ -34,7 +34,16 @@ public class Main {
         }
         System.out.println("max = " + mx + "\nmin = " + mn);
     }
+    static void Ex5()
+    {
+        Scanner scanner = new Scanner(System.in);
+        for (int i = 0; i < 7; i++)
+        {
+            System.out.println(scanner.next());
+        }
+    }
+
     public static void main(String[] args) {
-        Ex4();
+        Ex5();
     }
 }
