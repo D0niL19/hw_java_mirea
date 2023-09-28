@@ -19,7 +19,7 @@ public class Book {
 
     @Override
     public String toString() {
-        return "pract4_1.n5.Book{" +
+        return "pract4_1.pract7.n5.Book{" +
                 "title='" + title + '\'' +
                 ", author='" + author + '\'' +
                 '}';

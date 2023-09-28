@@ -1,5 +1,7 @@
 package pract4_1.n1;
 
+import java.awt.*;
+
 public abstract class Shape {
     protected String color;
     protected boolean filled;
