@@ -19,7 +19,7 @@ public class Circle {
 
     @Override
     public String toString() {
-        return "pract4_1.n1.Circle{" +
+        return "pract4_1.pract9.pract16.pract15.n1.Circle{" +
                 "point=" + point +
                 ", radius=" + radius +
                 '}';

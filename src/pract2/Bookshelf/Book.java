@@ -36,7 +36,7 @@ public class Book {
 
     @Override
     public String toString() {
-        return "Bookshelf_7.pract4_1.pract7.n5.Book{" +
+        return "Bookshelf_7.pract4_1.pract7.pract13.n5.Book{" +
                 "author='" + author + '\'' +
                 ", name='" + name + '\'' +
                 ", year=" + year +

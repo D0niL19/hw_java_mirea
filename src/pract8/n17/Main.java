@@ -3,13 +3,13 @@ package pract8.n17;
 import java.util.Scanner;
 
 public class Main {
-    public static int max_cnt(){
+    public static int max(){
         Scanner scanner = new Scanner(System.in);
         int a = scanner.nextInt();
         if (a == 0){
             return 0;
         }
-        int b = max_cnt();
+        int b = max();
         if (a > b){
             return a;
         }
@@ -18,8 +18,6 @@ public class Main {
         }
     }
     public static void main(String[] args) {
-
-
-        System.out.println(max_cnt());
+        System.out.println(max());
     }
 }

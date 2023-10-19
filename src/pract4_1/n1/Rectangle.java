@@ -50,7 +50,7 @@ public class Rectangle extends Shape{
 
     @Override
     public String toString() {
-        return "pract4_1.n1.Rectangle{" +
+        return "pract4_1.pract9.pract16.pract15.n1.Rectangle{" +
                 "width=" + width +
                 ", length=" + length +
                 ", color='" + color + '\'' +
