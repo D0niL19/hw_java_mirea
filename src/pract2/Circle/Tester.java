@@ -13,7 +13,7 @@ public class Tester {
 
     @Override
     public String toString() {
-        return "pract1.pract4_1.pract9.pract16.pract15.n1.Circle.Tester{" +
+        return "pract1.pract4_1.pract9.pract16.pract15.pract17.pract18.n1.Circle.Tester{" +
                 "circles=" + Arrays.toString(circles) +
                 ", size=" + size +
                 '}';

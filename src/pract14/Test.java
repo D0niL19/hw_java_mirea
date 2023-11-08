@@ -6,7 +6,7 @@ import java.util.regex.Pattern;
 
 public class Test {
     public static void main(String[] args) {
-        String prices = "16 USS, 17 USD, 21024.231 RUB, 60?324 BUBLS, 35.532 EU";
+        String prices = "16 USS, 17 USD, 21024.231 RUB, 60?324 BUBLS, 35.532 EU 0 EU ";
         String regex = "((\\d+|\\d+\\.\\d+) (USD|RUB|EU))";
         Pattern pattern = Pattern.compile(regex);
         Matcher matcher = pattern.matcher(prices);

@@ -28,7 +28,7 @@ public class Student {
 
         String formattedDate = dateFormat.format(dateOfBirth);
 
-        return "pract11.n_1_2_3.Student{" +
+        return "pract11.n_1_2_3.pract17.pract18.n1.Student{" +
                 "iDNumber=" + iDNumber +
                 ", name='" + name + '\'' +
                 ", dateOfBirth=" + formattedDate +

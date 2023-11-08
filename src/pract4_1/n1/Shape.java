@@ -8,7 +8,7 @@ public abstract class Shape {
 
     @Override
     public String toString() {
-        return "pract4_1.pract9.pract16.pract15.n1.Shape{" +
+        return "pract4_1.pract9.pract16.pract15.pract17.pract18.n1.Shape{" +
                 "color='" + color + '\'' +
                 ", filled=" + filled +
                 '}';
